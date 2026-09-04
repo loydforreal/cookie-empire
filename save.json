@@ -1,0 +1,652 @@
+{
+  "boss": {
+    "cookies": 382102483841957,
+    "click_power": 7924751,
+    "rebirths": 67,
+    "active_skin": "singularity",
+    "unlocked_skins": [
+      "default",
+      "donut"
+    ],
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 11554,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 100,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 52990,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 80,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 105238,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 60,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 375759,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 50,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1401313,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 45,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4204747,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 40,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 11844525,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 35,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 29874103,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 30,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 66174241,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 25,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 142973378,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 20,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 273524879,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 15,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 562091927,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 10,
+        "max_level": 10
+      }
+    },
+    "artifacts": [
+      "sugar_compass",
+      "baker_heart",
+      "butter_knife"
+    ],
+    "autoclicker_unlocked": true
+  },
+  "BrunSON": {
+    "cookies": 14461891241975,
+    "click_power": 7924719,
+    "rebirths": 35,
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 2130,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 78,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 43794,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 78,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 105238,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 60,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 375759,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 50,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1401313,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 45,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4204747,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 40,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 11844525,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 35,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 29874103,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 30,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 66174241,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 25,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 142973378,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 20,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 273524879,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 15,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 562091927,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 10,
+        "max_level": 10
+      }
+    },
+    "active_skin": "singularity",
+    "unlocked_skins": [
+      "default"
+    ],
+    "artifacts": [
+      "infinity_flour",
+      "sugar_compass"
+    ],
+    "autoclicker_unlocked": true
+  },
+  "Player": {
+    "cookies": 0,
+    "click_power": 1,
+    "rebirths": 0,
+    "active_skin": "default",
+    "artifacts": [],
+    "autoclicker_unlocked": false,
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 8,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 0,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 30,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 0,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 120,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 0,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 350,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 0,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1200,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 0,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4000,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 0,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 15000,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 0,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 60000,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 0,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 250000,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 0,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 1200000,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 0,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 6000000,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 0,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 35000000,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 0,
+        "max_level": 10
+      }
+    }
+  },
+  "Play": {
+    "cookies": 0,
+    "click_power": 1,
+    "rebirths": 0,
+    "active_skin": "default",
+    "artifacts": [],
+    "autoclicker_unlocked": false,
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 8,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 0,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 30,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 0,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 120,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 0,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 350,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 0,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1200,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 0,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4000,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 0,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 15000,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 0,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 60000,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 0,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 250000,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 0,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 1200000,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 0,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 6000000,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 0,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 35000000,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 0,
+        "max_level": 10
+      }
+    }
+  },
+  "Bru": {
+    "cookies": 0,
+    "click_power": 1,
+    "rebirths": 0,
+    "active_skin": "default",
+    "artifacts": [],
+    "autoclicker_unlocked": false,
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 8,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 0,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 30,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 0,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 120,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 0,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 350,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 0,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1200,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 0,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4000,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 0,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 15000,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 0,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 60000,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 0,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 250000,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 0,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 1200000,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 0,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 6000000,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 0,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 35000000,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 0,
+        "max_level": 10
+      }
+    }
+  },
+  "BrunS": {
+    "cookies": 0,
+    "click_power": 1,
+    "rebirths": 0,
+    "active_skin": "default",
+    "artifacts": [],
+    "autoclicker_unlocked": false,
+    "upgrades": {
+      "cursor": {
+        "name": "Двойной клик (+1)",
+        "cost": 8,
+        "power": 1,
+        "cost_mult": 1.08,
+        "count": 0,
+        "max_level": 100
+      },
+      "finger": {
+        "name": "Мега-палец (+5)",
+        "cost": 30,
+        "power": 5,
+        "cost_mult": 1.1,
+        "count": 0,
+        "max_level": 80
+      },
+      "oven": {
+        "name": "Бабушкина духовка (+25)",
+        "cost": 120,
+        "power": 25,
+        "cost_mult": 1.12,
+        "count": 0,
+        "max_level": 60
+      },
+      "farm": {
+        "name": "Пшеничная ферма (+60)",
+        "cost": 350,
+        "power": 60,
+        "cost_mult": 1.15,
+        "count": 0,
+        "max_level": 50
+      },
+      "factory": {
+        "name": "Кондитерская фабрика (+150)",
+        "cost": 1200,
+        "power": 150,
+        "cost_mult": 1.17,
+        "count": 0,
+        "max_level": 45
+      },
+      "mine": {
+        "name": "Сахарная шахта (+400)",
+        "cost": 4000,
+        "power": 400,
+        "cost_mult": 1.19,
+        "count": 0,
+        "max_level": 40
+      },
+      "bank": {
+        "name": "Печеньковый банк (+1.2K)",
+        "cost": 15000,
+        "power": 1200,
+        "cost_mult": 1.21,
+        "count": 0,
+        "max_level": 35
+      },
+      "quantum": {
+        "name": "Квантовый генератор (+3.5K)",
+        "cost": 60000,
+        "power": 3500,
+        "cost_mult": 1.23,
+        "count": 0,
+        "max_level": 30
+      },
+      "station": {
+        "name": "Орбитальная пекарня (+10K)",
+        "cost": 250000,
+        "power": 10000,
+        "cost_mult": 1.25,
+        "count": 0,
+        "max_level": 25
+      },
+      "collider": {
+        "name": "Коллайдер теста (+35K)",
+        "cost": 1200000,
+        "power": 35000,
+        "cost_mult": 1.27,
+        "count": 0,
+        "max_level": 20
+      },
+      "portal": {
+        "name": "Врата измерений (+120K)",
+        "cost": 6000000,
+        "power": 120000,
+        "cost_mult": 1.29,
+        "count": 0,
+        "max_level": 15
+      },
+      "synthesizer": {
+        "name": "Синтезатор Вселенных (+500K)",
+        "cost": 35000000,
+        "power": 500000,
+        "cost_mult": 1.32,
+        "count": 0,
+        "max_level": 10
+      }
+    }
+  }
+}
